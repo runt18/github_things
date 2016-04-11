@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0;}
+ul,ol{list-style: none;}
+a{text-decoration: none;}
+img{border:0;display: block;}
+
+.main-top-img{width: 240px;height: 330px;margin-right:44px;float: left;position:relative;margin: 50px;}
+.smallpiccheck{background-color:#0000CC;opacity: 0.3;filter: alpha(opacity=30);position: absolute;top:0;left:0;display: none;cursor: move;}
+.main-top-picsmall{width: 240px;height: 330px;cursor: pointer;}
+.main-top-picbig-box{position: absolute;top:0;left: 250px;width: 240px;height: 330px;border:1px solid #ccc;background: #fff;overflow: hidden;display: none;}
+.bigpic-box{position: relative;width: 240px;height: 330px;}
+.bigpic{position:absolute;top:0;left:0;}
